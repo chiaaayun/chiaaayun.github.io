@@ -1,0 +1,101 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nocarrots.com" resolutions="1x" timestamp="1557435020447">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3855951895" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u127-7.png" crc="3860903742" ref="index"/>
+    <file name="u131-9.png" crc="199534232" ref="index"/>
+    <file name="u283-4.png" crc="258922928" ref="index"/>
+    <file name="u287-9.png" crc="64753926" ref="index"/>
+    <file name="小男孩no版.png" crc="84329923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="胡蘿蔔.png" crc="3894694357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3878954737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sad.png" crc="106622291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shock.png" crc="4071366437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u245-4.png" crc="268079690" ref="index"/>
+    <file name="u248-4.png" crc="4261352396" ref="index"/>
+    <file name="bang.png" crc="364792134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u251-4.png" crc="3829890260" ref="index"/>
+    <file name="第九幕2.jpg" crc="376514425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="最後一幕8.jpg" crc="293230742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="倒數第二9.jpg" crc="216584524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u310-9.png" crc="214580259" ref="index"/>
+    <file name="u343-4.png" crc="226778253" ref="index"/>
+    <file name="u361-4.png" crc="3777778176" ref="index"/>
+    <file name="小男孩正.png" crc="154699428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="女朋友.png" crc="327999226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="特種部隊.png" crc="4271832452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u737-4.png" crc="84296681" ref="index"/>
+    <file name="餐廳完整1.jpg" crc="3785657407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="第一幕8.jpg" crc="29838616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="第二幕4.jpg" crc="479845318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="第五幕9.jpg" crc="276899364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="第六幕1.jpg" crc="3792110145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="第九幕7.jpg" crc="4144906095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="第八幕5.jpg" crc="180304019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="小男孩眼睛3.jpg" crc="4110310096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="倒數第二4.jpg" crc="4099951889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u759-10.png" crc="390639926" ref="index"/>
+    <file name="被餵紅蘿蔔.png" crc="3759822088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3874891167" seo="true" mt="1557430796663" redirect="true"/>
+</manifest>
